@@ -40,13 +40,13 @@
 
 <div>
   <p> Languages and tools:</p>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinniegalli&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinniegalli&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niqguimaraes&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqguimaraes&theme=blue-green"/>
   
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="vinniegalli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="vinniegalli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="vinniegalli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="niqguimaraes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="niqguimaraes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="niqguimaraes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
