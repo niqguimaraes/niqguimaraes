@@ -1,7 +1,5 @@
 # :wave: Hi 👋, I'm Nikolas Guimarães
 
-<hr>
-
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
