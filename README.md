@@ -48,6 +48,6 @@
 <hr>
 
 <div>
-  <img height="250em" width="500em" src="https://github-readme-stats.vercel.app/api?username=niqguimaraes&theme=great-gatsby"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqguimaraes&theme=great-gatsby"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=niqguimaraes&theme=great-gatsby"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqguimaraes&theme=great-gatsby"/>
 </div>
