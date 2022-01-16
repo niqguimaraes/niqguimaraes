@@ -47,4 +47,5 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=niqguimaraes&show_icons=true&theme=great-gatsby"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqguimaraes&show_icons=true&theme=great-gatsby"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niqguimaraes)](https://github.com/anuraghazra/github-readme-stats)
 </div>
