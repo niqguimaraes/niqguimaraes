@@ -46,5 +46,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=niqguimaraes&theme=great-gatsby"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=niqguimaraes&show_icons=true&theme=great-gatsby"/>
 </div>
