@@ -28,6 +28,6 @@
 <hr>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=niqguimaraes&show_icons=true&theme=great-gatsby"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqguimaraes&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqguimaraes&theme=great-gatsby"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niqguimaraes&theme=great-gatsby"/>
 </div>
