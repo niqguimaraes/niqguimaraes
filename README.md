@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <div style="display: inline_block">
   <a href = "mailto:niqguimaraes@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-CA1800?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/nikolasguimaraes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
