@@ -38,13 +38,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: inline_block">
-  <a href = "mailto:niqguimaraes@gmail.com">
+  <a href = "mailto:niqguimaraes@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Gmail-CA1800?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/nikolasguimaraes" target="_blank">
+  <a href="https://www.linkedin.com/in/nikolasguimaraes" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://www.nikolasguimaraes.com" target="_blank">
+  <a href="https://www.nikolasguimaraes.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </div>
