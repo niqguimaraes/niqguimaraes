@@ -32,6 +32,7 @@
 <h3 align="left">Improving</h3>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
 
